@@ -1,7 +1,7 @@
 <H3> Name: Nithishwar S </H3>
 <H3>Register No: 212221230071 </H3>
 <H3> Experiment: 01</H3>
-<H3>DATE: 03/03/2004</H3>
+<H3>DATE: 03/03/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim:
